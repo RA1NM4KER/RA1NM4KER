@@ -16,6 +16,3 @@ I enjoy working on software that has to make sense both technically and operatio
 
 ### Links
 [Portfolio](https://kefas.co.za) · [LinkedIn](https://www.linkedin.com/in/kefas-manda/) · [Email](mailto:kefasa112@gmail.com)
-
-### GitHub Stats
-![Kefas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RA1NM4KER&show_icons=true&hide_border=true&bg_color=081527&title_color=f1eee8&text_color=a8b0bb&icon_color=f2b316)
