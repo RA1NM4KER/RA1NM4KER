@@ -18,7 +18,7 @@ I enjoy work that has to make sense both technically and operationally, from use
 ### Selected work
 - [FineApp](https://www.fineapp.co.za) - Creative freelancer platform
 - [GradeLog](https://github.com/RA1NM4KER/GradeLog) - Local-first grade tracking app
-- [Livenopay](https://github.com/RA1NM4KER/livenopay) - Personal electricity usage and spend analysis tool
+- [NewinMeter](https://github.com/RA1NM4KER/newinmeter) - Personal electricity usage and spend analysis tool
 - [beacon-mcp](https://github.com/RA1NM4KER/beacon-mcp) - Personal operations MCP server
 
 ### Links
