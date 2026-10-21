@@ -7,7 +7,7 @@ Lately, I've been especially interested in the infrastructure around AI agents: 
 ### Selected work
 
 - [Agent Relay](https://github.com/RA1NM4KER/agent-relay) - Local Rust tooling for supervising Claude Code and Codex sessions across profiles, usage limits, and provider handoffs.
-- [Learn MCP](https://github.com/RA1NM4KER/sunlearn-mcp) - MCP server connecting AI assistants to Moodle-based learning platforms, with local and hosted OAuth modes.
+- **Foreman** - An explainable engineering backlog manager for GitHub repositories.
 - [NewinMeter](https://github.com/RA1NM4KER/newinmeter) - Multi-user electricity analytics platform with automated data sync, alerts, and a grounded AI energy copilot.
 - [GradeLog](https://github.com/RA1NM4KER/GradeLog) - Local-first academic tracking app for web and mobile.
 
