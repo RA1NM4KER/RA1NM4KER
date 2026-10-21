@@ -7,7 +7,7 @@ Lately, I've been especially interested in the infrastructure around AI agents: 
 ### Selected work
 
 - [Agent Relay](https://github.com/RA1NM4KER/agent-relay) - Local Rust tooling for supervising Claude Code and Codex sessions across profiles, usage limits, and provider handoffs.
-- **Foreman** - An explainable engineering backlog manager for GitHub repositories.
+- [Beacon](https://github.com/RA1NM4KER/beacon) - Personal context and capability layer for AI agents, with MCP and HTTP interfaces, Gmail and Calendar integrations, and approval-gated actions.
 - [NewinMeter](https://github.com/RA1NM4KER/newinmeter) - Multi-user electricity analytics platform with automated data sync, alerts, and a grounded AI energy copilot.
 - [GradeLog](https://github.com/RA1NM4KER/GradeLog) - Local-first academic tracking app for web and mobile.
 
